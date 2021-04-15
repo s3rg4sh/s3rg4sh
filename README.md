@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @s3rg4sh
+- 👀 I’m interested in .NET programming & Web-design
+- 🌱 I’m currently learning ADO.NET
