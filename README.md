@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @s3rg4sh
-- 👀 I’m interested in .NET programming & Web-design
-- 🌱 I’m currently learning ADO.NET
+- 👀 I’m interested in IOS apps developing
+- 🌱 I’m currently learning SwiftUI
