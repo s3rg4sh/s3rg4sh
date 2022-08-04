@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @s3rg4sh
-- 👀 I’m interested in IOS apps developing
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in iOS apps developing
+- 🌱 I’m know basics of SwiftUI
+- 🕊 I have passed "100 Days with SwiftUI" course
+- 🔥 I'm enjoy for writing apps
+- 😈 My hobby is coding 
