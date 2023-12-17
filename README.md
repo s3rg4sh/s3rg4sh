@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @s3rg4sh
-- 👀 
-- 🌱 
-- 🕊 
-- 🔥 
-- 😈 My hobby is coding 
+- 🚀 Frontend developer
