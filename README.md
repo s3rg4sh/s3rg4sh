@@ -1,5 +1,5 @@
 <h2> Hi, I'm Serhii! <img src="https://media.giphy.com/media/l4jsKDLGiOxQRy3WbE/giphy.gif?cid=ecf05e47ssd8ymxnry3dwx8xvn3rukv1m678d0kesz90devp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/WbJPmszOaMm4i9qxck/giphy.gif" width="330">
+<img align='right' src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="330">
 <p><b>Frontend developer</b></br></br><i>My stack:</i></br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"/> 
