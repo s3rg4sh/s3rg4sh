@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="50"/>
 </p>
 
-[![Linkedin: serhiihashenko](https://img.shields.io/badge/-serhiihashenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhiihashenko/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: serhiihashenko](https://img.shields.io/badge/-serhiihashenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhiihashenko/)](https://www.linkedin.com/in/serhiihashenko/)
 [![GitHub s3rg4sh](https://img.shields.io/github/followers/s3rg4sh?label=follow&style=social)](https://github.com/s3rg4sh)
 
 
@@ -21,10 +21,7 @@ const serhii = {
   pronouns: 'he' | 'him',
   code: [JavaScript, TypeScript, HTML, CSS],
   tools: [React, Redux, Sass],
-  interestedInLearning: [Next.js, Node.js, PostgreSQL, Express],
-  also: {
-          challenge: "Develop my own e-commerce online store from scratch"
-  }
+  interestedInLearning: [Next.js, Vue.js, React Native, Angular],
 }
 ```
 
